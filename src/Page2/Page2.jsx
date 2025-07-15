@@ -98,7 +98,7 @@ const Page2 = () => {
 
     return (
         <>
-            <div className='min-h-screen w-screen cursor-pointer bg-[#001845] no-scrollbar'>
+            <div className='min-h-screen w-full cursor-pointer bg-[#001845] no-scrollbar'>
                 <Navbar />
                 <section className="h-100 w-full bg-[#001845] pt-24">
                     <div className="h-full w-full flex flex-col justify-center items-center gap-15">
